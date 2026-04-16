@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;AI+Developer;Computer+Vision+Enthusiast&center=true&width=500&height=50">
 </p>
+
 # 👋 Hi, I'm Şeyma Bayram
 
 🎓 Software Engineering Student
