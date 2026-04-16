@@ -12,7 +12,7 @@
 
 ##  About Me
 
-*  I’m currently working on **AI & 3D Web مشاريع**
+*  I’m currently working on **AI & 3D Web **
 *  Interested in **Artificial Intelligence & Computer Vision**
 *  I build modern web applications (React, Three.js)
 *  Goal: Becoming a highly skilled **AI Engineer**
