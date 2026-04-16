@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Şeyma Bayram
 
-<!--
-**seymabayram/seymabayram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student
+💻 Passionate about AI, Computer Vision & Web Development
+🚀 Building real-world projects and improving every day
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🔭 I’m currently working on **AI & 3D Web مشاريع**
+* 🤖 Interested in **Artificial Intelligence & Computer Vision**
+* 🌐 I build modern web applications (React, Three.js)
+* 📈 Goal: Becoming a highly skilled **AI Engineer**
+
+---
+
+## 🛠️ Tech Stack
+
+💻 **Languages:**
+
+* JavaScript / TypeScript
+* Python
+* C#
+
+⚙️ **Technologies & Tools:**
+
+* React / Next.js
+* Three.js
+* Node.js
+* Git & GitHub
+* TensorFlow / OpenCV
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seymabayram\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=seymabayram\&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/seyma-bayram/
+* 📧 Email: bayramseyma966@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I love turning ideas into real products 🚀
