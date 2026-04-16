@@ -22,13 +22,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,threejs,git,github,opencv,tensorflow" />
 </p>
-⚙️ **Technologies & Tools:**
 
-* React / Next.js
-* Three.js
-* Node.js
-* Git & GitHub
-* TensorFlow / OpenCV
 
 ---
 
