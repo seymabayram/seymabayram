@@ -10,16 +10,16 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-* 🔭 I’m currently working on **AI & 3D Web مشاريع**
-* 🤖 Interested in **Artificial Intelligence & Computer Vision**
-* 🌐 I build modern web applications (React, Three.js)
-* 📈 Goal: Becoming a highly skilled **AI Engineer**
+*  I’m currently working on **AI & 3D Web مشاريع**
+*  Interested in **Artificial Intelligence & Computer Vision**
+*  I build modern web applications (React, Three.js)
+*  Goal: Becoming a highly skilled **AI Engineer**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,threejs,git,github,opencv,tensorflow" />
 </p>
