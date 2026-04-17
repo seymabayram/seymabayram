@@ -4,9 +4,9 @@
 
 # 👋 Hi, I'm Şeyma Bayram
 
-🎓 Software Engineering Student
-💻 Passionate about AI, Computer Vision & Web Development
-🚀 Building real-world projects and improving every day
+Software Engineering Student
+Passionate about AI, Computer Vision & Web Development
+Building real-world projects and improving every day
 
 ---
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,threejs,git,github,opencv,tensorflow" />
 </p>
@@ -27,22 +27,22 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seymabayram\&show_icons=true\&theme=tokyonight)
 
 ---
 
-## 🔥 Contribution Streak
+## Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=seymabayram\&theme=tokyonight)
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/seyma-bayram/
-* 📧 Email: bayramseyma966@gmail.com
+*  LinkedIn: https://www.linkedin.com/in/seyma-bayram/
+*  Email: bayramseyma966@gmail.com
 
 ---
 
